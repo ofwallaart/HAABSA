@@ -1,0 +1,564 @@
+the $T$ was good .
+food
+1
+the $T$ was nice and calm .
+place
+1
+the $T$ had a nice selection .
+buffet
+1
+the $T$ was average or above including some surprising tasty dishes .
+food
+1
+the food was average or above including some surprising tasty $T$ .
+dishes
+1
+$T$ was also very good .
+service
+1
+i got an excellent piece of $T$ and we had several other nice pastries .
+cheesecake
+1
+i got an excellent piece of cheesecake and we had several other nice $T$ .
+pastries
+1
+this $T$ is really trendi but they have forgotten about the most important part of a restaurant , the food .
+place
+1
+we went here for lunch a couple of weeks ago on a saturday , and i was thoroughly impressed with the $T$ .
+food
+1
+the $T$ was excellent , thin-crust pizza with a nice amount of spicy italian cheese that i 'd never heard of before .
+pesto pizza
+1
+the pesto pizza was excellent , thin-crust pizza with a nice amount of $T$ that i 'd never heard of before .
+spicy italian cheese
+1
+the $T$ is very pleasant , where you can see their personal herb garden .
+back garden sitting area
+1
+we had the $T$ and it was fantastic .
+lobster sandwich
+1
+my husband said he could 've eaten several more , the $T$ was fine for me he even exclaimed that the french fries were the best he has had .
+portion
+1
+my husband said he could 've eaten several more , the portion was fine for me he even exclaimed that the $T$ were the best he has had .
+french fries
+1
+we had the $T$ as an appetizer and they were delicious and the sauce was wonderful .
+scallops
+1
+we had the scallops as an appetizer and they were delicious and the $T$ was wonderful .
+sauce
+1
+we waited at the bar and had $T$ that were just right .
+martinis
+1
+love the $T$ .
+food
+1
+it 's the only place you can get yummy authentic $T$ .
+japanese comfort food
+1
+i 've lived in ny for 5 years and this $T$ has it all .
+place
+1
+great $T$ , good size menu , great service and an unpretensious setting .
+food
+1
+great food , good size $T$ , great service and an unpretensious setting .
+menu
+1
+great food , good size menu , great $T$ and an unpretensious setting .
+service
+1
+great food , good size menu , great service and an unpretensious $T$ .
+setting
+1
+the $T$ offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest i 've ever had ) .
+dishes
+1
+the dishes offered were unique , very tasty and fresh from the $T$ , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest i 've ever had ) .
+lamb sausages
+1
+the dishes offered were unique , very tasty and fresh from the lamb sausages , $T$ , large whole shrimp to the amazing pistachio ice cream ( the best and freshest i 've ever had ) .
+sardines with biscuits
+1
+the dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , $T$ to the amazing pistachio ice cream ( the best and freshest i 've ever had ) .
+large whole shrimp
+1
+the dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing $T$ ( the best and freshest i 've ever had ) .
+pistachio ice cream
+1
+i 'm glad i was introduced to this $T$ and this is a rare gem in ny .
+place
+1
+the freshest , best variety , and the fastest $T$ .
+delivery
+1
+the $T$ was excellent and the food was delicious .
+service
+1
+the service was excellent and the $T$ was delicious .
+food
+1
+we are very particular about $T$ and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , $T$ and rolls , two types of sake , and the banana tempura .
+sushi
+1
+we are very particular about sushi and were both please with every choice which included : $T$ , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .
+ceviche mix ( special )
+1
+we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , $T$ , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .
+crab dumplings
+1
+we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , $T$ , sushi and rolls , two types of sake , and the banana tempura .
+assorted sashimi
+1
+we are very particular about $T$ and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , $T$ and rolls , two types of sake , and the banana tempura .
+sushi
+1
+we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and $T$ , two types of sake , and the banana tempura .
+rolls
+1
+we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of $T$ , and the banana tempura .
+sake
+1
+we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the $T$ .
+banana tempura
+1
+definitely a great $T$ for a nice occasion or date .
+spot
+1
+average to good $T$ , but terrible delivery .
+thai food
+1
+this is a wonderful $T$ on all stand points especially value ofr money .
+place
+1
+this is a wonderful $T$ on all stand points especially value ofr money .
+place
+1
+an excellent $T$
+service
+1
+we were greeted promptly by the $T$ who was very nice and cordial .
+waiter
+1
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good $T$ since we knew nothing about indian food .
+dishes
+1
+the $T$ looked very appetizing and delicious since it came on a variety of fancy plates .
+food
+1
+we ended our great experience by having $T$ recommended by the waiter .
+gulab jamun ( dessert )
+1
+i thanked my friend who recommended me this $T$ and will certainly recommend it to others .
+restaurant
+1
+$T$ here was great , food was fantastic .
+service
+1
+service here was great , $T$ was fantastic .
+food
+1
+$T$ was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .
+guacamole+shrimp appetizer
+1
+guacamole+shrimp appetizer was really great , we both had the $T$ , very good , did n't much like the frites that came with , but the $T$ was so good , neither of us cared .
+filet
+1
+you can not go wrong with this $T$ .
+place
+1
+the $T$ is outstanding and the service is quick , friendly and very professional .
+food
+1
+the food is outstanding and the $T$ is quick , friendly and very professional .
+service
+1
+always a nice $T$ , but never loud .
+crowd
+1
+i am reluctant to write because i would not want my jem of a $T$ to become overcrowded .
+pizza place
+1
+by far , the best $T$ in manhattan .
+pizza
+1
+the $T$ is thin , the ingredients are fresh and the staff is friendly .
+crust
+1
+the crust is thin , the ingredients are fresh and the $T$ is friendly .
+staff
+1
+the crust is thin , the $T$ are fresh and the staff is friendly .
+ingredients
+1
+the $T$ has so many fish items and oysters .
+menu
+1
+the $T$ was really , really fresh .
+fish
+1
+we all agreed that $T$ is one of the best seafood restaurants in new york .
+mare
+1
+i stumbled upon this great $T$ as i explored my new neighborhood .
+pizzeria
+1
+all of the $T$ are terrific and the price is even better !
+pizzas
+1
+all of the $T$ are terrific and the price is even better !
+pizzas
+1
+i highly recommend the $T$ .
+sophia pizza
+1
+the first time the $T$ was outstanding , the second time it was a little bland .
+sushi
+1
+the $T$ is very soothing , the premium sake is excellent and the service is great .
+blond wood decor
+1
+the blond wood decor is very soothing , the $T$ is excellent and the service is great .
+premium sake
+1
+the blond wood decor is very soothing , the premium sake is excellent and the $T$ is great .
+service
+1
+$T$ is the japenese find in grammercy .
+mizu
+1
+while their $T$ is delicious , their sushi is out of this world .
+kitchen food
+1
+while their kitchen food is delicious , their $T$ is out of this world .
+sushi
+1
+mizu is home to creative and unique $T$ not to found anywhere else .
+rolls
+1
+not only is the $T$ the best around , the service has always been attentive and charming .
+cuisine
+1
+not only is the cuisine the best around , the $T$ has always been attentive and charming .
+service
+1
+warning : you may find it difficult to dine at other japanese restaurants after a visit to $T$ !
+mizu
+1
+thalia is a beautiful restaurant with beautiful $T$ serving you , but the food does n't quite match up .
+people
+1
+$T$ is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up .
+thalia
+1
+the $T$ is spectacular , and the food is great .
+view
+1
+the view is spectacular , and the $T$ is great .
+food
+1
+wonderful $T$ as well !
+strawberry daiquiries
+1
+authentic $T$ that 's cheap ... what more could you ask for ?
+taiwanese food
+1
+authentic $T$ that 's cheap ... what more could you ask for ?
+taiwanese food
+1
+the $T$ taste like the way i remember them to taste when i was growing up in taiwan .
+cold appetizer dishes
+1
+delicious simple $T$ in nice outdoor atmosphere .
+food
+1
+delicious simple $T$ in nice outdoor atmosphere .
+food
+1
+delicious simple food in nice $T$ .
+outdoor atmosphere
+1
+kind , attentive $T$ .
+wait staff
+1
+i really like both the $T$ and the mahi mahi ( on saffron risotto-yum ! ) .
+scallops
+1
+i really like both the scallops and the $T$-yum ! ) .
+mahi mahi ( on saffron risotto
+1
+my friend devoured her $T$ .
+chicken and mashed potatos
+1
+delicious $T$ too .
+crab cakes
+1
+even if the food was n't this good , the $T$ is a great place to sit outside and relax .
+garden
+1
+even if the $T$ was n't this good , the garden is a great place to sit outside and relax .
+food
+1
+great neighborhood $T$ .
+joint
+1
+this is a nice pizza place with good $T$ including the basil slice .
+selection of thin crust pizza
+1
+this is a nice pizza place with good $T$ including the basil slice .
+selection of thin crust pizza
+1
+this is a nice $T$ with good selection of thin crust pizza including the basil slice .
+pizza place
+1
+this is a nice pizza place with good selection of thin crust pizza including the $T$ .
+basil slice
+1
+calling the place hampton chutney co. does warn you that these folks offer more style than substance , but in this unattractive room with unhelpful $T$ there was a dearth of the former too .
+clerks
+-1
+seriously , this $T$ kicks ass .
+place
+1
+the $T$ is unheralded , the service impecible , and the food magnificant .
+atmosphere
+1
+the atmosphere is unheralded , the $T$ impecible , and the food magnificant .
+service
+1
+the atmosphere is unheralded , the service impecible , and the $T$ magnificant .
+food
+1
+best $T$ i ever had ( and being italian , that means alot ) .
+italian food
+1
+this is such a lovely , peaceful $T$ to eat outside .
+place
+1
+the $T$ looks out over beautiful green lawns to the hudson river and the statue of liberty .
+restaurant
+1
+the $T$ is good , especially their more basic dishes , and the drinks are delicious .
+food
+1
+the food is good , especially their more $T$ , and the drinks are delicious .
+basic dishes
+1
+the food is good , especially their more basic dishes , and the $T$ are delicious .
+drinks
+1
+this is a great $T$ to take out-of-towners , and perfect for watching the sunset .
+place
+1
+great $T$ experience .
+sushi
+1
+unique $T$ .
+apppetizers
+1
+try $T$ .
+sushimi cucumber roll
+1
+good $T$ , great beverage selections and bagels really tasty .
+spreads
+1
+good spreads , great $T$ and bagels really tasty .
+beverage selections
+1
+good spreads , great beverage selections and $T$ really tasty .
+bagels
+1
+but who says murray 's is anything about $T$ .
+service
+-1
+the $T$ is awful .
+service
+-1
+this $T$ is not worth the prices .
+place
+-1
+this $T$ is not worth the prices .
+place
+-1
+love $T$..
+pizza 33
+1
+i will be out with friends and all of a sudden i am hungry and i only crave one thing ... their $T$ .
+pizza
+1
+this tiny $T$ is always pleasantly surprising .
+williamsburg spot
+1
+the $T$ is delicious and the proprietor is one of the nicest in nyc .
+pizza
+1
+the pizza is delicious and the $T$ is one of the nicest in nyc .
+proprietor
+1
+the $T$ are out of this world and i love that coffee ! !
+cream cheeses
+1
+the cream cheeses are out of this world and i love that $T$ ! !
+coffee
+1
+i asked for an open faced cheese sandwich and the $T$ basically told me to take my business elsewhere !
+manager
+-1
+be sure not to get anything other than $T$ ! ..
+bagels
+1
+the $T$ are scary !
+turkey burgers
+-1
+the worst excuse for $T$ i 've ever encountered .
+japanese food
+-1
+the $T$ was soy sauce and water .
+soup for the udon
+-1
+the $T$ was awful !
+sushi
+-1
+the $T$ was poor quality and was cooked so badly it was hard .
+rice
+-1
+furthermore , the $T$ had no seasoning , so the sushi was bland and disgusting .
+rice
+-1
+furthermore , the rice had no seasoning , so the $T$ was bland and disgusting .
+sushi
+-1
+the $T$ was adequate , but inexpertly sliced .
+fish
+-1
+it is obvious that no one in the restaurant has any idea about or experience with $T$ .
+japanese cuisine
+-1
+well , this $T$ is so ghetto its not even funny .
+place
+-1
+if you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar $T$ then you 'll love it here .
+bottle minimun
+-1
+if you like your $T$ blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you 'll love it here .
+music
+-1
+during the course of the past 3 months , the $T$ and staff changed and it was not for the better .
+chef
+-1
+during the course of the past 3 months , the chef and $T$ changed and it was not for the better .
+staff
+-1
+the $T$ now is inconsistent .
+food
+-1
+do not get the $T$ , no matter what the reviews say .
+go go hamburgers
+-1
+the rest of the $T$ , though pricey by chinatown standards , is worth it .
+dim sum
+-1
+the $T$ here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for chinatown ) alternative .
+wait
+-1
+the wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum $T$ is not your gig , this is a sleek ( for chinatown ) alternative .
+atmosphere
+-1
+a few tips : skip the $T$ , roast pork buns and egg custards .
+turnip cake
+-1
+a few tips : skip the turnip cake , $T$ and egg custards .
+roast pork buns
+-1
+a few tips : skip the turnip cake , roast pork buns and $T$ .
+egg custards
+-1
+the pad se ew chicken was delicious , however the $T$ was far too oily .
+pad thai
+-1
+this place would be so much better served by being run by a group that actually understands $T$ .
+customer service
+-1
+terrible , terrible $T$ - deserves to be shut-down .
+management
+-1
+$T$ and toppings are great - though a bit pricey .
+spreads
+-1
+spreads and $T$ are great - though a bit pricey .
+toppings
+-1
+the $T$ is decent at best , and the ambience , well , it 's a matter of opinion , some may consider it to be a sweet thing , i thought it was just annoying .
+food
+-1
+the food is decent at best , and the $T$ , well , it 's a matter of opinion , some may consider it to be a sweet thing , i thought it was just annoying .
+ambience
+-1
+$T$ is a good restaurant , but it 's nothing special .
+rao
+0
+their $T$ are fine , but they are a little overcooked , and not really a 'special ' bagel experience .
+bagels
+-1
+drawbacks : $T$ is slow and they do n't toast !
+service
+-1
+downtown dinner 2002 - prixe fix : $T$ were ok , waiter gave me poor suggestion..try the potato stuff kanish best one .
+appetizers
+0
+downtown dinner 2002 - prixe fix : appetizers were ok , $T$ gave me poor suggestion..try the potato stuff kanish best one .
+waiter
+-1
+small servings for main entree , i had $T$ ( wasnt impressed ) girlfriend had chicken , it was good .
+salmon
+-1
+small $T$ , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .
+servings for main entree
+-1
+$T$ is a joke ... dont bother
+dessert
+-1
+$T$ was very prompt but slightly rushed .
+service
+-1
+$T$ was very good , but not what i would consider out of this world .
+food
+0
+too bad the $T$ was n't of the same heritage .
+food
+-1
+the $T$ was tasteless , so was the seafood tagliatelle .
+porcini mushroom pasta special
+-1
+the porcini mushroom pasta special was tasteless , so was the $T$ .
+seafood tagliatelle
+-1
+but that was n't the icing on the cake : a $T$ that resembled nothing i have ever had .
+tiramisu
+-1
+it 's definately not a $T$ to go if you want to impress someone .
+place
+-1
+however , if you want great food at a great price and do n't mind the $T$ , you ca n't beat this place .
+decor
+0
+while the ambiance and atmosphere were great , the $T$ and service could have been a lot better .
+food
+-1
+while the ambiance and atmosphere were great , the food and $T$ could have been a lot better .
+service
+-1
+$T$ was just average ... if they lowered the prices just a bit , it would be a bigger draw .
+food
+0
+do n't waste money on $T$ .
+decor
+0
+the $T$ are huge , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .
+portions
+0

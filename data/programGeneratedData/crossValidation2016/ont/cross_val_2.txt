@@ -1,0 +1,564 @@
+the place is a bistro which means : simple dishes and $T$ served efficiently in a bustling atmosphere .
+wine
+1
+the place is a bistro which means : simple dishes and wine served efficiently in a bustling $T$ .
+atmosphere
+1
+and where does $T$ go wrong ; no where .
+patis
+1
+and evaluated on those terms $T$ is simply wonderful .
+pastis
+1
+right off the l in brooklyn this is a nice cozy place with good $T$ .
+pizza
+1
+right off the l in brooklyn this is a nice cozy $T$ with good pizza .
+place
+1
+my friend got the $T$ which tasted better .
+mushroom pizza
+1
+the $T$ was pretty tasty and good on a hot muggy day .
+sangria
+1
+i started out with a $T$ which was big enough for two .
+bombay beer
+1
+service was slow , but the $T$ were friendly .
+people
+1
+it 's a nice $T$ to relax and have conversation .
+place
+1
+the $T$ is authentic italian - delicious !
+food
+1
+$T$ is terrific , as is homemade pasta .
+pizza
+1
+pizza is terrific , as is $T$ .
+homemade pasta
+1
+$T$ is delightful , service impeccable .
+ambience
+1
+ambience is delightful , $T$ impeccable .
+service
+1
+i go and eat out at many different restaurants and this is one $T$ you have go and try .
+place
+1
+this is my first time writing a review for a restaurant because the $T$ and service was excellent .
+food
+1
+this is my first time writing a review for a restaurant because the food and $T$ was excellent .
+service
+1
+the $T$ was superb !
+filet mignon dish
+1
+it 's a small cute $T$ .
+restaurant
+1
+i absolutely love this $T$ ! ! !
+place
+1
+i like the $T$ , it 's very dark and original .
+ambience
+1
+the $T$ is amazing ! ! !
+sushi
+1
+very affordable and excellent $T$ !
+ambient
+1
+however , i think this $T$ is a good hang out spot .
+place
+1
+my girlfriend and i stumbled onto this hopping $T$ the other night and had a great time !
+place
+1
+the $T$ and wine were excellent-the service too - but what really made this place was the backyard dining area .
+pizza
+1
+the pizza and $T$ were excellent-the service too - but what really made this place was the backyard dining area .
+wine
+1
+the pizza and wine were excellent-the $T$ too - but what really made this place was the backyard dining area .
+service
+1
+the pizza and wine were excellent-the service too - but what really made this place was the $T$ .
+backyard dining area
+1
+check this $T$ out !
+place
+1
+to be completely fair , the only redeeming factor was the $T$ , which was above average , but could n't make up for all the other deficiencies of teodora .
+food
+1
+cute place , nice $T$ but would never go there again .
+wait staff
+1
+cute $T$ , nice wait staff but would never go there again .
+place
+1
+one of us actually liked the $T$ - that 's it .
+expresso
+1
+$T$ is one of my favorite restaurants in the city ; the place the negative reviews describe sound like they were somewhere else .
+myagi
+1
+i 've never had bad $T$ and the fish is fresh and delicious .
+service
+1
+i 've never had bad service and the $T$ is fresh and delicious .
+fish
+1
+their $T$ is to die for .
+tuna tartar appetizer
+1
+i come from a family of pizzeria owners , and i 'm almost ashamed to say that the $T$ in fornino 's blows my families receipies away .
+pizza
+1
+the place is so cool and the $T$ is prompt and curtious .
+service
+1
+the $T$ is so cool and the service is prompt and curtious .
+place
+1
+i highly recommend to anyone to give this $T$ a try .
+place
+1
+a restaurant that does n't try to do anything except serve great $T$ with great service in a pleasant atmosphere .
+food
+1
+a restaurant that does n't try to do anything except serve great food with great $T$ in a pleasant atmosphere .
+service
+1
+a restaurant that does n't try to do anything except serve great food with great service in a pleasant $T$ .
+atmosphere
+1
+no gimmicks here -- the $T$ speaks for itself in its freshness and preparation .
+food
+1
+the $T$ is quietly elegant with no music to shout over -- how refreshing !
+dining room
+1
+the $T$ was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu , present your meal , and attend to your needs .
+service
+1
+the service was impeccable and unobtrusive -- the $T$ knows what they are there to do -- to know their menu , present your meal , and attend to your needs .
+staff
+1
+looking around , i saw a room full of new yorkers enjoying a real $T$ in a real restaurant , not a clubhouse of the fabulous trying to be seen .
+meal
+1
+looking around , i saw a room full of new yorkers enjoying a real meal in a real $T$ , not a clubhouse of the fabulous trying to be seen .
+restaurant
+1
+the $T$ is breathtaking the service is top notch ... the ambiance is wonderfull .
+view
+1
+the view is breathtaking the $T$ is top notch ... the ambiance is wonderfull .
+service
+1
+the view is breathtaking the service is top notch ... the $T$ is wonderfull .
+ambiance
+1
+the $T$ offers impeccable service .
+staff
+1
+i had $T$ it has 2 oz . of maine lobster in it .
+lobster bisque
+1
+my boyfriend had the $T$ it was good but i think the award should go to the lobster bisque .
+new england chowder
+1
+my boyfriend had the new england chowder it was good but i think the award should go to the $T$ .
+lobster bisque
+1
+my boyfriend had $T$ it was good .
+prime rib
+1
+we did n't want a bottle of bubbly on a weekday so we each got little $T$ it was just enough .
+bottles of korbett
+1
+my wife and i ate here earlier this week and have not stopped ranting and raving about the $T$ .
+food
+1
+if you like spicy food get the $T$ .
+chicken vindaloo
+1
+go to volare for 1st class $T$ and terrific food .
+service
+1
+go to volare for 1st class service and terrific $T$ .
+food
+1
+the $T$ are large and the servers always surprise us with a different starter .
+portions
+1
+the portions are large and the $T$ always surprise us with a different starter .
+servers
+1
+the $T$ is excellent .
+wine list
+1
+the $T$ is amazing ... especially if you get the chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .
+food
+1
+the food is amazing ... especially if you get the chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive $T$ .
+selection of wines
+1
+the food is amazing ... especially if you get the $T$ and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .
+chef 's tasting menu
+1
+the place is small and intimate and you may feel a little crowded , but the $T$ is excellent and it 's great for friends out , a romantic date , or a special occassion .
+service
+1
+the $T$ is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion .
+place
+1
+the food can get pricey but the $T$ is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .
+prixe fixe tasting menu
+1
+the food can get pricey but the $T$ is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .
+prixe fixe tasting menu
+1
+the $T$ in this place is very diner-ish and the kind of place you expect in the east village - not romantic , just simple , small and sparse .
+decor
+0
+this $T$ is so much fun .
+place
+1
+our family never expected such incredible entertainment in a $T$ .
+restaurant
+1
+our $T$ was great too !
+food
+1
+and really large $T$ .
+portions
+1
+the $T$ was the friendliest that have seen in new york .
+staff
+1
+if you want something really different than try $T$ .
+jekyll and hyde
+1
+the $T$ was pretty tradional but it was hot and good with large portions .
+food
+1
+the food was pretty tradional but it was hot and good with large $T$ .
+portions
+1
+the $T$ is a lot of fun .
+place
+1
+the $T$ really make for an enjoyable experience .
+characters
+1
+the $T$ however , is what one might expect .
+food
+-1
+however , i think $T$ t is one of those places that is fun to do once .
+jeckll and hydes
+1
+$T$ was slow had to wait to order and get food although not crowded .
+service
+-1
+$T$ way over priced .
+drinks
+-1
+$T$ was good not great not worth the wait or another visit
+food
+0
+great $T$ for lunch place .
+pizza
+1
+$T$ was quick .
+service
+1
+the $T$ was great .
+pizza
+1
+have the $T$ .
+iced tea
+1
+whenever you need a sushi fix , mizu will be there with quality $T$ and great service .
+fish
+1
+whenever you need a sushi fix , mizu will be there with quality fish and great $T$ .
+service
+1
+$T$ is fast too .
+delivery
+1
+great friendly $T$ , fast seating , fast delivery , excellent sushi .
+service
+1
+great friendly service , fast $T$ , fast delivery , excellent sushi .
+seating
+1
+great friendly service , fast seating , fast $T$ , excellent sushi .
+delivery
+1
+great friendly service , fast seating , fast delivery , excellent $T$ .
+sushi
+1
+ess-a-$T$ ( either by sty-town or midtown ) is by far the best $T$ in ny .
+bagel
+1
+the $T$ always warm , soft on the inside , crispy on the outside and enormous in size .
+bagels
+1
+the $T$ always warm , soft on the inside , crispy on the outside and enormous in size .
+bagels
+1
+they have a huge selection of different cream cheeses and all of their $T$ are great .
+salads
+1
+they have a huge selection of different $T$ and all of their salads are great .
+cream cheeses
+1
+the $T$ is always fresh too .
+lox
+1
+not impressed with the $T$ .
+food
+-1
+prices too high for this cramped and unappealing $T$ .
+resturant
+-1
+prices too high for this cramped and unappealing $T$ .
+resturant
+-1
+zero $T$ to boot .
+ambiance
+-1
+i thought this $T$ was totally overrated .
+place
+-1
+the $T$ was nice , but service was n't so great .
+ambience
+1
+the ambience was nice , but $T$ was n't so great .
+service
+-1
+this is the best $T$ in the try-state area .
+shabu-shabu restaurant
+1
+i have lived in japan for 7 years and the taste of the $T$ and the feel of the restaurant is like being back in japan .
+food
+1
+i have lived in japan for 7 years and the taste of the food and the $T$ of the restaurant is like being back in japan .
+feel
+1
+thius is a must for anyone who loves $T$ .
+shabu-shabu
+1
+the $T$ is nothing special , but it feels like a sushi establishment in tokyo .
+atmosphere
+1
+the $T$ and staff are all japanese as well and that adds to the entire ambiance .
+owner
+1
+the owner and $T$ are all japanese as well and that adds to the entire ambiance .
+staff
+1
+the owner and staff are all japanese as well and that adds to the entire $T$ .
+ambiance
+1
+despite a slightly limited $T$ , everything prepared is done to perfection , ultra fresh and a work of food art .
+menu
+-1
+$T$ delicious !
+taxan
+1
+the prices were cheap compared to the quality of $T$ and food .
+service
+1
+the prices were cheap compared to the quality of service and $T$ .
+food
+1
+the $T$ and ambience is ok but the food is what makes up for it .
+location
+0
+the location and $T$ is ok but the food is what makes up for it .
+ambience
+0
+the location and ambience is ok but the $T$ is what makes up for it .
+food
+1
+try $T$ .
+green curry with vegetables
+1
+the $T$ is ok , some of the people did n't get what they asked for .
+service
+0
+i had the best $T$ ever .
+ravioli
+1
+the $T$ the service was very good too .
+wine
+1
+the wine the $T$ was very good too .
+service
+1
+this quaint and romantic $T$ is at the top of my manhattan restaurant list .
+trattoria
+1
+this quaint and romantic $T$ is at the top of my manhattan restaurant list .
+trattoria
+1
+the $T$ is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .
+food
+1
+the food is delicious - from the specials to the regular menu-fare , the $T$ are never a disappointment .
+dishes
+1
+the food is delicious - from the $T$ to the regular menu-fare , the dishes are never a disappointment .
+specials
+1
+the food is delicious - from the specials to the $T$ , the dishes are never a disappointment .
+regular menu-fare
+1
+whether it 's the $T$ or the lamb glazed with balsamic vinegar , you will surely be transported to northern italy with one bite .
+parmesean porcini souffle
+1
+whether it 's the parmesean porcini souffle or the $T$ , you will surely be transported to northern italy with one bite .
+lamb glazed with balsamic vinegar
+1
+although the tables may be closely situated , the $T$ , food quality and service overcompensate .
+candle-light
+1
+although the tables may be closely situated , the candle-light , $T$ quality and service overcompensate .
+food
+1
+although the tables may be closely situated , the candle-light , food quality and $T$ overcompensate .
+service
+1
+although the $T$ may be closely situated , the candle-light , food quality and service overcompensate .
+tables
+-1
+but the $T$ was so horrible to us .
+staff
+-1
+the $T$ and the waitress were incredibly rude and did everything they could to rush us out .
+hostess
+-1
+the hostess and the $T$ were incredibly rude and did everything they could to rush us out .
+waitress
+-1
+we were planning to get dessert but the $T$ basically through the bill at us before we had a chance to order .
+waitress
+-1
+this $T$ is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .
+place
+-1
+this place is pricey , and yes , the food is worth it ; but the $T$ makes you feel like you should be paying a quater of the price .
+service
+-1
+$T$ is nothing special .
+amma
+0
+i ate here a week ago and found most $T$ average at best and too expensive .
+dishes
+-1
+i ate here a week ago and found most $T$ average at best and too expensive .
+dishes
+-1
+do n't dine at tamarind for the $T$ , they are simply not up to par with the non-veg selections .
+vegetarian dishes
+-1
+decor is nice though $T$ can be spotty .
+service
+-1
+this $T$ is always packed .
+place
+0
+$T$ is simply disgusting .
+haru on park s
+-1
+the $T$ was not fresh and the rice tasted old and stale .
+fish
+-1
+the fish was not fresh and the $T$ tasted old and stale .
+rice
+-1
+quite frankly , this is some of the worst $T$ i have ever tried .
+sushi
+-1
+honestly the worst $T$ my husband and i had in our entire lives .
+sushi
+-1
+not sure why this $T$ would be rated that highly .
+restaurant
+-1
+the $T$ is definitely in very poor quality .
+all-u-can-eat sushi
+-1
+limited $T$ , no-so-fresh ingredients , thinly-sliced fish , fall-apart rice .
+menu
+-1
+limited menu , no-so-fresh $T$ , thinly-sliced fish , fall-apart rice .
+ingredients
+-1
+limited menu , no-so-fresh ingredients , thinly-sliced $T$ , fall-apart rice .
+fish
+-1
+limited menu , no-so-fresh ingredients , thinly-sliced fish , fall-apart $T$ .
+rice
+-1
+the only things u could really taste are the very salty $T$ ( even its low sodium ) , the vinegar-soaked rice , and the scallion on top of the fish .
+soy sauce
+-1
+the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar-soaked $T$ , and the scallion on top of the fish .
+rice
+-1
+i have been to $T$ twice and both times were very disappointing .
+roth 's
+-1
+both times i was extremely dissappointed by the $T$ , which was boarderline rude .
+service
+-1
+the $T$ was ok , nothing i would have again .
+dinner
+-1
+i had their $T$ for brunch , which were the worst in my entire life , i tried removing the hollondaise sauce completely that was how failed it was .
+eggs benedict
+-1
+the $T$ can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !
+svc
+-1
+also , the $T$ ( nearing $ 7 ) did n't come with anything like chips or a side .
+sandwiches
+-1
+also , the $T$ ( nearing $ 7 ) did n't come with anything like chips or a side .
+sandwiches
+-1
+this restaurant is vegetarian ; there are no meat $T$ whatsoever .
+dishes
+-1
+the $T$ are uncomfortable if you are sitting against the wall on wooden benches .
+seats
+-1
+it 's a rather cramped and busy $T$ and it closes early .
+restaurant
+-1
+it 's a rather cramped and busy $T$ and it closes early .
+restaurant
+-1
+not a great $T$ for family or general dining .
+place
+-1
+the $T$ is limited but almost all of the dishes are excellent .
+menu
+-1
+the only fallback on this $T$ is the prices .
+restaurant
+-1
+even though its good $T$ , the prices are too high .
+seafood
+-1

@@ -1,0 +1,567 @@
+i take all my nyc guests to $T$ .
+vt 's
+1
+not sure where the previous reviewer , lonk , dined , but saul is in a great $T$ and has great food !
+neighborhood
+1
+not sure where the previous reviewer , lonk , dined , but saul is in a great neighborhood and has great $T$ !
+food
+1
+i 'd highly recommend it for a special occasion -- it provides and intimate $T$ and nice service .
+setting
+1
+i 'd highly recommend it for a special occasion -- it provides and intimate setting and nice $T$ .
+service
+1
+i 'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy $T$ very much ... and we 're repeat customers .
+mizu
+1
+make sure you have the $T$.. .
+spicy scallop roll
+1
+$T$ were excellent , lobster ravioli was very salty !
+moules
+1
+the $T$ are always welll made and wine selection is fairly priced .
+drinks
+1
+the drinks are always welll made and $T$ is fairly priced .
+wine selection
+1
+try their $T$ -- they are to die for .
+chef 's specials
+1
+$T$ is always a good attraction
+downstairs lounge
+1
+$T$ is a romantic , cozy restaurant .
+raga 's
+1
+the $T$ is beautifully presented and is a delight in delicious combinations .
+exotic food
+1
+the $T$ is beautifully presented and is a delight in delicious combinations .
+exotic food
+1
+the $T$ is incredibly helpful and attentive .
+staff
+1
+the $T$ is very well stocked with interesting beers and well priced wines .
+bar
+1
+the bar is very well stocked with interesting $T$ and well priced wines .
+beers
+1
+the bar is very well stocked with interesting beers and well priced $T$ .
+wines
+1
+rude $T$ , medicore food ... there are tons of restaurants in ny ... stay away from this one
+service
+-1
+i had a grat time at $T$ !
+jekyll and hyde
+1
+i loved everythig about it-especially the $T$ and actors .
+shows
+1
+i loved everythig about it-especially the shows and $T$ .
+actors
+1
+our $T$ was very helpful and friendly .
+server
+1
+the $T$ was good too .
+food
+1
+the $T$ and wasabe potatoes are excellent .
+tuna
+1
+the tuna and $T$ are excellent .
+wasabe potatoes
+1
+the $T$ of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .
+outdoor atmosphere
+1
+$T$ was prompt and courteous .
+service
+1
+great $T$ , great food .
+service
+1
+great service , great $T$ .
+food
+1
+the $T$ is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most $T$ria 's .
+pizza
+1
+the pizza is delicious - they use $T$ instead of the cheap , frozen , shredded cheese common to most pizzaria 's .
+fresh mozzarella
+1
+two complaints- their $T$ stinks , it would be nice to get some mozzarella sticks on the menu .
+appetizer selection
+-1
+$T$ is blantently unappreciative of your business but its the best pie on the uws !
+wait staff
+-1
+wait staff is blantently unappreciative of your business but its the best $T$ on the uws !
+pie
+1
+by far the best $T$ i have had in a fast food restaurant .
+salad
+1
+fine $T$ restaurant quality .
+dining
+1
+on a recent sunday afternoon , a friend and i accidently found this great $T$ on our way to see the pulitzer prize winning play doubt .
+restaurant
+1
+the $T$ is excpetiona , the cheeseburger huge and delictable , and the service professional wan warm .
+chicken pot pie
+1
+the chicken pot pie is excpetiona , the $T$ huge and delictable , and the service professional wan warm .
+cheeseburger
+1
+the chicken pot pie is excpetiona , the $T$ huge and delictable , and the service professional wan warm .
+cheeseburger
+1
+the chicken pot pie is excpetiona , the cheeseburger huge and delictable , and the $T$ professional wan warm .
+service
+1
+the $T$ is no nonsense .
+staff
+1
+the $T$ options rule .
+food
+1
+when i lived upstate for a while i would buy freeze the $T$ and they would still be better than any else .
+bagels
+1
+worth visiting the $T$ because it is the original store .
+1st ave spot
+1
+he served me an $T$ , which i never had before , and let me tell you ... it was heaven !
+uni hand roll
+1
+the $T$ should not be overlooked !
+sake menu
+1
+try the $T$ and the rose special roll .
+lobster teriyaki
+1
+try the lobster teriyaki and the $T$ .
+rose special roll
+1
+$T$ was very good - prompt , attentive and non-intrusive .
+service
+1
+$T$ was very good as well , considering that we tried the budget selection ( though i wish the pork belly that i ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .
+food
+1
+food was very good as well , considering that we tried the budget selection ( though i wish the $T$ that i ordered was roasted a bit longer , so that fat was more of a melt-in-your-mouth experience ) .
+pork belly
+-1
+$T$ is good and wine-by-the-glass was generously filled to the top .
+wine list selection
+1
+wine list selection is good and $T$ was generously filled to the top .
+wine-by-the-glass
+1
+$T$ was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .
+traditional french decour
+1
+traditional french decour was pleasant though the $T$ was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .
+hall
+-1
+i 've been to at $T$ probably 5-8 times , it is probably still the best indian restaurant around union square .
+cafe spice
+1
+to sum it up : $T$ varies from good to mediorce , depending on which waiter you get ; generally it is just average ok .
+service
+0
+$T$ is always prompt , though the restaurant does fill up in the evening .
+seating
+1
+$T$ is usually very good , though ocasionally i wondered about freshmess of raw vegatables in side orders .
+food
+1
+food is usually very good , though ocasionally i wondered about freshmess of $T$ .
+raw vegatables in side orders
+-1
+the $T$ is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .
+decor
+1
+the decor is vibrant and eye-pleasing with several $T$ on the right side of the dining hall , which are great for a date .
+semi-private boths
+1
+i have never been disappointed in the $T$ .
+red eye
+1
+the first time i went , and was completely taken by the $T$ and atmosphere , i ordered the lobster cobb salad .
+live jazz band
+1
+the first time i went , and was completely taken by the live jazz band and $T$ , i ordered the lobster cobb salad .
+atmosphere
+1
+it 's simply the best $T$ in nyc .
+meal
+1
+you can not go wrong at the $T$ .
+red eye grill
+1
+if we were to move from the upper east side , we would genuinely miss this $T$ .
+restaurant
+1
+the $T$ is cute but not upscale .
+restaurant
+0
+the $T$ is a diamond in rough -- the $T$ is delicious and homemade with the perfect balance of herbs and tomatoes .
+food
+1
+the food is a diamond in rough -- the food is delicious and homemade with the perfect $T$ .
+balance of herbs and tomatoes
+1
+we had a great time at the $T$ last night .
+jekyll and hyde pub
+1
+after really enjoying ourselves at the $T$ we sat down at a table and had dinner .
+bar
+1
+the $T$ was really cool and served us our food and drinks with a smile .
+server
+1
+the place 's $T$ and hidden bathrooms made for a good laugh .
+decor
+1
+the place 's decor and $T$ made for a good laugh .
+hidden bathrooms
+1
+i highly recommend visiting this $T$ and having dinner and drinks !
+restaurant
+1
+if you are the type of person who likes being scared and entertained , this is a great $T$ to go and eat .
+place
+1
+my husband and i thougt it would be great to go to the $T$ for our anniversary , and to our surprise it was fantastic .
+jekyll and hyde pub
+1
+the have over 100 different $T$ to offer thier guest so that made my husband very happy and the food was delicious , if i must recommend a dish it must be the pumkin tortelini .
+beers
+1
+the have over 100 different beers to offer thier guest so that made my husband very happy and the $T$ was delicious , if i must recommend a dish it must be the pumkin tortelini .
+food
+1
+the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if i must recommend a dish it must be the $T$ .
+pumkin tortelini
+1
+please take my advice , go and try this $T$ .
+place
+1
+the $T$ was huge .
+bagel
+1
+the workers there also absolutely load the $T$ with cream cheese ( gets a little messy ) .
+bagel
+-1
+this was my frist time at cafe st. bart 's and i must say how delicous the $T$ and the service was .
+food
+1
+this was my frist time at cafe st. bart 's and i must say how delicous the food and the $T$ was .
+service
+1
+i have to highly recommend the $T$ - not to much mayo ; you can tell it was a fresh lobster .
+lobster roll
+1
+i have to highly recommend the $T$ roll - not to much mayo ; you can tell it was a fresh $T$ .
+lobster
+1
+other guests enjoyed $T$ , santa fe chopped salad and fish and chips .
+pizza
+1
+other guests enjoyed pizza , $T$ and fish and chips .
+santa fe chopped salad
+1
+other guests enjoyed pizza , santa fe chopped salad and $T$ .
+fish and chips
+1
+i highly recommend cafe st. bart 's for their $T$ , the ambience and wonderful service .
+food
+1
+i highly recommend cafe st. bart 's for their food , the $T$ and wonderful service .
+ambience
+1
+i highly recommend cafe st. bart 's for their food , the ambience and wonderful $T$ .
+service
+1
+all the $T$ is absolutely professional ! !
+staff
+1
+this $T$ was way overhyped .
+restaurant
+-1
+my $T$ was really bland and oily .
+chow fun and chow see
+-1
+the $T$ and fried dumplings were nothing out of the ordinary .
+scallion pancakes
+0
+the scallion pancakes and $T$ were nothing out of the ordinary .
+fried dumplings
+0
+the $T$ was the only thing good about this restaurant .
+service
+1
+the service was the only thing good about this $T$ .
+restaurant
+-1
+it 's boring on the inside , and our $T$ was pretty below average ... the tuna was soggy and the other rolls had no flavor .
+sushi
+-1
+it 's boring on the inside , and our sushi was pretty below average ... the $T$ was soggy and the other rolls had no flavor .
+tuna
+-1
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other $T$ had no flavor .
+rolls
+-1
+their $T$ is delicious and everything else is fantastic .
+pad penang
+1
+the price is reasonable although the $T$ is poor .
+service
+-1
+$T$ was amazing ... ... .. food was delicious and of course fresh .
+fresh restaurant
+1
+fresh restaurant was amazing ... ... .. $T$ was delicious and of course fresh .
+food
+1
+hats off to the $T$ .
+chef
+1
+the $T$ are delicious , both refreshing and very spicy .
+salads
+1
+we had $T$ and it was amazing .
+pam 's special fried fish
+1
+great $T$ , lots of people .
+vibe
+1
+i did n't complain , i liked the $T$ so much .
+atmosphere
+1
+$T$ is so cute and quaint , good for business although we were there on vacation .
+ambience
+1
+$T$ were fantastic .
+salads
+1
+although we were looking for regular lettuce and some walnuts the $T$ we got were great .
+salads
+1
+$T$ are organic which is a real plus for me .
+ingredients
+1
+this is some really good , inexpensive $T$ .
+sushi
+1
+this is some really good , inexpensive $T$ .
+sushi
+1
+the $T$ is huge and probably the best that i 've had at this price range .
+spicy tuna roll
+1
+the $T$ is huge and probably the best that i 've had at this price range .
+spicy tuna roll
+1
+the $T$ is huge and probably the best that i 've had at this price range .
+spicy tuna roll
+1
+the $T$ was particularly good as well .
+yellowtail
+1
+i have reservations about the $T$ , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .
+all you can eat deal
+-1
+i have reservations about the $T$ , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .
+all you can eat deal
+-1
+in any event , this is a $T$ i 'll be sure to stop by again when i 'm in this part of town .
+place
+1
+$T$ gets big ups for a fine establishment .
+big wong
+1
+they have it all -- great price , $T$ , and service .
+food
+1
+they have it all -- great price , food , and $T$ .
+service
+1
+the $T$ is noisy and the waiters are literally walking around doing things as fast as they can .
+atmosphere
+-1
+the atmosphere is noisy and the $T$ are literally walking around doing things as fast as they can .
+waiters
+1
+and it all comes at a very reasonable price ( $T$ , noodles , and rice dishes are no more than $ 3-6 each ) .
+congee
+1
+and it all comes at a very reasonable price ( congee , $T$ , and rice dishes are no more than $ 3-6 each ) .
+noodles
+1
+and it all comes at a very reasonable price ( congee , noodles , and $T$ are no more than $ 3-6 each ) .
+rice dishes
+1
+the $T$ is great too since they give high quality tupperware as well .
+takeout
+1
+this $T$ is always very crowded and popular .
+place
+1
+enjoyed a very nice $T$ while my wife had arugula and goat cheese ... .both very tasty .
+caesar salad
+1
+enjoyed a very nice caesar salad while my wife had $T$ ... .both very tasty .
+arugula and goat cheese
+1
+we both opted for a $T$ and they were served timely and fresh .
+pasta dish
+1
+we concluded with $T$ chocolate cake , both were delicious .
+tiramisu
+1
+we concluded with tiramisu $T$ , both were delicious .
+chocolate cake
+1
+i recently went to this $T$ with some co-workers for lunch and had an amazing time .
+restaurant
+1
+the $T$ was accomodating , the food was absolutely delicious and the place is lovely .
+staff
+1
+the staff was accomodating , the $T$ was absolutely delicious and the place is lovely .
+food
+1
+the staff was accomodating , the food was absolutely delicious and the $T$ is lovely .
+place
+1
+we even had a visit from the $T$ who wanted to make sure we were enjoying ourselves .
+manager
+1
+sometimes i get good $T$ and ok service .
+food
+1
+sometimes i get good food and ok $T$ .
+service
+0
+sometimes i get bad $T$ and bad service , sometimes i get good good and bad service .
+food
+-1
+sometimes i get bad food and bad $T$ , sometimes i get good good and bad $T$ .
+service
+-1
+sometimes i get bad food and bad $T$ , sometimes i get good good and bad $T$ .
+service
+-1
+sometimes i get bad food and bad service , sometimes i get $T$ $T$ and bad service .
+good
+1
+the place is a bistro which means : simple $T$ and wine served efficiently in a bustling atmosphere .
+dishes
+1
+mine was a little burnt but still delicious with goat cheese and panchetta ( $T$ was kind of bitter though ) .
+raddichio
+-1
+kind of a small $T$ but i guess if they are not too busy might be able to fit a group or kids .
+place
+0
+$T$ was slow , but the people were friendly .
+service
+-1
+i 'm still mad that i had to pay for lousy $T$ .
+food
+-1
+the $T$ was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .
+hanger steak
+-1
+the hanger steak was like rubber and the $T$ was flavorless not to mention it tasted like it had just been thawed .
+tuna
+-1
+$T$ was also horrible and the ambience is not that great .
+service
+-1
+service was also horrible and the $T$ is not that great .
+ambience
+-1
+we ordered some $T$ from the thai section of the menu but nothing we got was thai .
+beef and noodle soup dishes
+-1
+we wo n't go to this place again for a good $T$ .
+meal
+-1
+first of all , this $T$ is *not* romantic , as claimed by citysearch 's editorial review .
+place
+-1
+the $T$ are crammed way too close , the menu is typical of any italian restaurant , and the wine list is simply overpriced .
+tables
+-1
+the tables are crammed way too close , the $T$ is typical of any italian restaurant , and the wine list is simply overpriced .
+menu
+0
+the tables are crammed way too close , the menu is typical of any italian restaurant , and the $T$ is simply overpriced .
+wine list
+-1
+slightly above average $T$ start at $ 70+ with only one selection listed at $ 30+ .
+wines
+-1
+slightly above average $T$ start at $ 70+ with only one selection listed at $ 30+ .
+wines
+-1
+$T$ is not what one would expect from a joint in this price category .
+service
+-1
+somehow working the italian charm with constant mille grazie does not constitute proper $T$ .
+service
+-1
+to be completely fair , the only redeeming factor was the food , which was above average , but could n't make up for all the other deficiencies of $T$ .
+teodora
+-1
+not one of our $T$ was edible - bland and/or made with weird rosemary or orange flavoring .
+meals
+-1
+not one of our meals was edible - bland and/or made with weird $T$ .
+rosemary or orange flavoring
+-1
+$T$ was overdone .
+fish
+-1
+cute $T$ , nice wait staff but would never go there again .
+place
+-1
+someone else recommended the $T$ - we also left that .
+dessert
+-1
+skip this $T$ , it 's a big disappointment .
+restaurant
+-1
+the $T$ is small and intimate and you may feel a little crowded , but the service is excellent and it 's great for friends out , a romantic date , or a special occassion .
+place
+-1
+the $T$ can get pricey but the prixe fixe tasting menu is the greatest $T$ for a good price and they cater the $T$ to any $T$ allergies or $T$ you do n't like .
+food
+-1
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering , the $T$ here was decent , not great .
+food
+0
+with the exception of our $T$ that had so much pepper on it that our eyes started watering , the food here was decent , not great .
+lemon salad
+-1
+the $T$ is very limited - i think we counted 4 or 5 entrees .
+menu
+-1
+we ordered the special , $T$ , that was so infused with bone , it was difficult to eat .
+grilled branzino
+-1
+problem is nothing at $T$ is particularly memorable .
+prune
+-1
