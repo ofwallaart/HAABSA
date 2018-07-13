@@ -3,32 +3,32 @@ Code for A Hybrid Approach for Aspect-Based Sentiment Analysis Using a Lexicaliz
 
 All software is written in PYTHON3 (https://www.python.org/) and makes use of the TensorFlow framework (https://www.tensorflow.org/).
 
-Installation Instructions (Windows):
-0. Dowload required files and add them to data/externalData folder:
-0.1	Download ontology: https://github.com/KSchouten/Heracles/tree/master/src/main/resources/externalData
-0.2	Download SemEval2015 Datasets: http://alt.qcri.org/semeval2015/task12/index.php?id=data-and-tools
-0.3	Download SemEval2016 Dataset: http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
-0.4	Download Glove Embeddings: http://nlp.stanford.edu/data/glove.42B.300d.zip
-0.5	Download Stanford CoreNLP parser: https://nlp.stanford.edu/software/stanford-parser-full-2018-02-27.zip
-0.6	Download Stanford CoreNLP Language models: https://nlp.stanford.edu/software/stanford-english-corenlp-2018-02-27-models.jar
+## Installation Instructions (Windows):
+### Dowload required files and add them to data/externalData folder:
+1. Download ontology: https://github.com/KSchouten/Heracles/tree/master/src/main/resources/externalData
+2. Download SemEval2015 Datasets: http://alt.qcri.org/semeval2015/task12/index.php?id=data-and-tools
+3. Download SemEval2016 Dataset: http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
+4. Download Glove Embeddings: http://nlp.stanford.edu/data/glove.42B.300d.zip
+5. Download Stanford CoreNLP parser: https://nlp.stanford.edu/software/stanford-parser-full-2018-02-27.zip
+6. Download Stanford CoreNLP Language models: https://nlp.stanford.edu/software/stanford-english-corenlp-2018-02-27-models.jar
 
-1. Setup Environment
-1.1	Install chocolatey (a package manager for Windows): https://chocolatey.org/install
-1.2	Open a command prompt.
-1.3	Install python3 by running the following command: choco install python (http://docs.python-guide.org/en/latest/starting/install3/win/).
-1.4	Make sure that pip is installed and use pip to install the following packages: setuptools and virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref).
-1.5	Create a virtual environemnt in a desired location by running the following command: virtualenv ENV_NAME
-1.6	Direct to the virtual environment source directory. 
-1.7	Unzip the HAABSA_software.zip file in the virtual environment directrory. 
-1.8	Activate the virtual environment by the following command: Scripts\activate.bat
-1.9	Install the required packages from the requirements.txt file by running the following command: pip install -r requirements.txt
-1.10	Install the required space language pack by running the following command: python -m spacy download en
+### Setup Environment
+1. Install chocolatey (a package manager for Windows): https://chocolatey.org/install
+2. Open a command prompt.
+3. Install python3 by running the following command: `code(choco install python)` (http://docs.python-guide.org/en/latest/starting/install3/win/).
+4. Make sure that pip is installed and use pip to install the following packages: setuptools and virtualenv (http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref).
+5. Create a virtual environemnt in a desired location by running the following command: `code(virtualenv ENV_NAME)`
+6. Direct to the virtual environment source directory. 
+7. Unzip the HAABSA_software.zip file in the virtual environment directrory. 
+8. Activate the virtual environment by the following command: 'code(Scripts\activate.bat)`.
+9. Install the required packages from the requirements.txt file by running the following command: `code(pip install -r requirements.txt)`.
+10. Install the required space language pack by running the following command: `code(python -m spacy download en)`
 
-2. Run Software
-2.1 Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
-2.2 Run the program from the command line by the following command: python PROGRAM_TO_RUN.py (where PROGRAM_TO_RUN is main/main_cross/main_hyper)
+### Run Software
+1. Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
+2. Run the program from the command line by the following command: `code(python PROGRAM_TO_RUN.py)` (where PROGRAM_TO_RUN is main/main_cross/main_hyper)
 
-Software explanation:
+## Software explanation:
 The environment contains the following main files that can be run: main.py, main_cross.py, main_hyper.py
 - main.py: program to run single in-sample and out-of-sample valdition runs. Each method can be activated by setting its corresponding boolean to True e.g. to run the CABASC method set runCABASC = True.
 - main_cross.py: similar to main.py but runs a 10-fold cross validation procedure for each method.
@@ -47,7 +47,7 @@ The environment contains the following main files that can be run: main.py, main
 
 - att_layer.py, nn_layer.py, utils.py: programs that declare additional functions used by the machine learning algorithms.
 
-Directory explanation:
+## Directory explanation:
 The following directories are necessary for the virtual environment setup: \__pycache, \Include, \Lib, \Scripts, \tcl, \venv
 - cross_results_2015: Results for a k-fold cross validation process for the SemEval-2015 dataset
 - cross_results_2016: Results for a k-fold cross validation process for the SemEval-2015 dataset
